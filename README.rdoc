@@ -1,4 +1,7 @@
 == README
 
 Reddit like aplication created following the tutorial: 
+
 https://www.youtube.com/watch?v=7-1HCWbu7iU&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=1 
+
+https://github.com/mackenziechild/raddit
